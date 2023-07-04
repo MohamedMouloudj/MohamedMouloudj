@@ -15,8 +15,8 @@
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+<!--![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)--!>
 
 <!--
 **MohamedMouloudj/MohamedMouloudj** is a ✨ _special_ ✨ repository because its `REDME.md` (this file) appears on your GitHub profile.
