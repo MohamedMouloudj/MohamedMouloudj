@@ -1,7 +1,7 @@
 ### Welcome to my profile 👋
 
 <p align="center">
-  <a href="https://github.com/MohamedMouloudj"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Always%20learning%20new%20things&font=Arial%20Black&center=true&width=445&height=55&color=32fce8&vCenter=true&size=25px"></a>
+  <a href="https://github.com/MohamedMouloudj"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Always%20learning%20new&font=Arial%20Black&center=true&width=445&height=55&color=32fce8&vCenter=true&size=25px"></a>
 </p>
 
 - 👨‍💻 CS student in University of Science and Technology Houari Boumedian (USTHB)
