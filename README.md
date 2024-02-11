@@ -10,13 +10,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SCSS](https://img.shields.io/badge/-SASS-000?style=flat&logo=SASS&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)&nbsp;
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-<!--![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)--!>
+<!--![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)-->
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 <!--
 **MohamedMouloudj/MohamedMouloudj** is a ✨ _special_ ✨ repository because its `REDME.md` (this file) appears on your GitHub profile.
