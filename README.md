@@ -28,7 +28,7 @@
 
 ## Most used languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMouloudj&langs_count=8&bg_color=0,170faf,0a4eac&title_color=ee0808&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMouloudj&langs_count=8&bg_color=0,170faf,0a4eac&title_color=ee0808&&text_color=ffffff)
 
 <!--
 **MohamedMouloudj/MohamedMouloudj** is a ✨ _special_ ✨ repository because its `REDME.md` (this file) appears on your GitHub profile.
