@@ -4,7 +4,11 @@
   <a href="https://github.com/MohamedMouloudj"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Always%20learning%20new%20stuff!&font=Arial%20Black&center=true&width=445&height=55&color=32fce8&vCenter=true&size=25px"></a>
 </p>
 
-- 👨‍💻 CS student in University of Science and Technology Houari Boumedian (USTHB)
+<p align="center">👨‍💻 CS student in University of Science and Technology Houari Boumedian (USTHB) <br/><br/>
+  <a href="https://www.linkedin.com/in/mohamed-mouloudj-547020247"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked in"/></a>
+</p>
+
+ 
 
 ## Current skills
 
@@ -19,7 +23,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)&nbsp;
 
-## States
+## Stats
 <!--![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)-->
 <!--Different themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedMouloudj&show_icons=true&icon_color=c1cc00&text_color=ffffff&title_color=ee0808&bg_color=0,1e006f,170faf,0a4eac)
