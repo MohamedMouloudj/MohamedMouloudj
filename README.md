@@ -20,7 +20,7 @@
 
 ## Stats
 <!-- ocean-gradient -->
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohamedMouloudj&theme=sunset-gradient&mode=weekly)](https://git.io/streak-stats) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohamedMouloudj&theme=sunset-gradient&mode=weekly)
 <!--Different themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedMouloudj&show_icons=true&icon_color=c1cc00&text_color=ffffff&title_color=ee0808&bg_color=0,1e006f,170faf,0a4eac)
 
