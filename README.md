@@ -2,7 +2,7 @@
   
   ### Welcome to my profile 👋
   
-  <a href="https://github.com/MohamedMouloudj"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Cyber%20Security%20Student;Always%20learning%20new%20stuff!&font=Arial%20Black&center=true&width=445&height=55&color=32fce8&vCenter=true&size=25px"></a>
+  <a href="https://github.com/MohamedMouloudj"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Cyber%20Security%20Student;Always%20in%20new%20action!&font=Arial%20Black&center=true&width=445&height=55&color=32fce8&vCenter=true&size=25px"></a>
 </div>
 
 <p align="center">👨‍💻 CS student in University of Science and Technology Houari Boumedian (USTHB) <br/><br/>
@@ -24,6 +24,6 @@
 
 ## Most used languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?langs_count=11&username=MohamedMouloudj&bg_color=0,170faf,0a4eac&title_color=ee0808&&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?langs_count=12&username=MohamedMouloudj&bg_color=0,170faf,0a4eac&title_color=ee0808&&text_color=ffffff)
 </div>
 
