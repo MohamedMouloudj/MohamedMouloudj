@@ -10,7 +10,13 @@
 </p>
 
 <div align="center">
-  
+
+## GitHub Stats
+<!--Different themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedMouloudj&show_icons=true&icon_color=c1cc00&text_color=ffffff&title_color=ee0808&bg_color=0,1e006f,170faf,0a4eac)
+<!-- ocean-gradient -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohamedMouloudj&theme=sunset-gradient&mode=weekly)
+
 ## Technologies & Skills
 
 | **Frontend Development** | **Backend Development** | **Mobile Development** |
@@ -41,12 +47,6 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="25" width="25" /> **Git** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="25" width="25" /> **C language** | |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="25" width="25" /> **GitHub** | |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="25" width="25" /> **KaliLinux** | |
-
-## GitHub Stats
-<!--Different themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedMouloudj&show_icons=true&icon_color=c1cc00&text_color=ffffff&title_color=ee0808&bg_color=0,1e006f,170faf,0a4eac)
-<!-- ocean-gradient -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohamedMouloudj&theme=sunset-gradient&mode=weekly)
 
 ## Most Used Languages
 
