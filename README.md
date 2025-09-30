@@ -30,8 +30,9 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="25" width="25" /> **React** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="25" width="25" /> **GraphQL** | |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="25" width="25" /> **Redux** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apollographql/apollographql-original.svg" height="25" width="25" /> **Apollo GraphQL** | |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" height="25" width="25" /> **Zustand** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="25" width="25" /> **Prisma** | |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="25" width="25" /> **Next.js** | | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="25" width="25" /> **Next.js** | <img src="https://github.com/drizzle-team/drizzle-orm/blob/main/misc/readme/logo-github-sq-dark.svg" height="70" width="70"/> **Drizzle** | |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="25" width="25" /> **Astro** | | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" height="25" width="25"/> **React Router Framework** | | |
 
 | **Desktop Development** | **Databases** | **Testing** |
 | :--- | :--- | :--- |
