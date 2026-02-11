@@ -52,5 +52,5 @@
 
 ## Most Used Languages
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=MohamedMouloudj&langs_count=11&icon_color=f01111&text_color=121212&title_color=f01111&bg_color=ffffff))
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=MohamedMouloudj&langs_count=11&icon_color=f01111&text_color=121212&title_color=f01111&bg_color=ffffff)
 </div>
