@@ -2,11 +2,12 @@
   
   ### Welcome to my profile 👋
   
-  <a href="https://github.com/MohamedMouloudj"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Cyber%20Security%20Student;Always%20in%20new%20action!&font=Arial%20Black&center=true&width=445&height=55&color=32fce8&vCenter=true&size=25px"></a>
+  <a href="https://github.com/MohamedMouloudj"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Cyber%20Security%20Student;Always%20in%20action!&font=Arial%20Black&center=true&width=445&height=55&color=32fce8&vCenter=true&size=25px"></a>
 </div>
 
-<p align="center">👨‍💻 CS student in University of Science and Technology Houari Boumedian (USTHB) <br/><br/>
+<p align="center">👨‍💻 CS student at University of Science and Technology Houari Boumedian (USTHB) <br/><br/>
   <a href="https://www.linkedin.com/in/mohamed-mouloudj-547020247"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked in"/></a>
+  <a href="https://mohamed-mouloudj-portfolio.vercel.app"><img src="https://img.shields.io/badge/my%20portfolio-F01111?style=for-the-badge" alt="Linked in"/></a>
 </p>
 
 <div align="center">
