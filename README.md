@@ -7,7 +7,7 @@
 
 <p align="center">👨‍💻 CS student at University of Science and Technology Houari Boumedian (USTHB) <br/><br/>
   <a href="https://www.linkedin.com/in/mohamed-mouloudj-547020247"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked in"/></a>
-  <a href="https://mohamed-mouloudj-portfolio.vercel.app"><img src="https://img.shields.io/badge/my%20portfolio-F01111?style=for-the-badge" alt="Linked in"/></a>
+  <a href="https://mohamed-mouloudj-portfolio.vercel.app"><img src="https://img.shields.io/badge/portfolio-F01111?style=for-the-badge" alt="Linked in"/></a>
 </p>
 
 <div align="center">
