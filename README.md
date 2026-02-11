@@ -13,11 +13,9 @@
 
 ## GitHub Stats
 <!--Different themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedMouloudj&show_icons=true&icon_color=c1cc00&text_color=ffffff&title_color=ee0808&bg_color=0,1e006f,170faf,0a4eac)
+![Mohamed's GitHub stats](https://github-stats-extended.vercel.app/api?username=MohamedMouloudj&show_icons=true&include_all_commits=true&icon_color=f01111&text_color=121212&title_color=f01111&bg_color=ffffff)
 <!-- ocean-gradient -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohamedMouloudj&theme=sunset-gradient&mode=weekly)
-
-## Technologies & Skills
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohamedMouloudj&theme=blood&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=155)](https://git.io/streak-stats)
 
 ## Technologies & Skills
 
@@ -54,5 +52,5 @@
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?langs_count=12&username=MohamedMouloudj&bg_color=0,170faf,0a4eac&title_color=ee0808&&text_color=ffffff)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=MohamedMouloudj&langs_count=11&icon_color=f01111&text_color=121212&title_color=f01111&bg_color=ffffff))
 </div>
